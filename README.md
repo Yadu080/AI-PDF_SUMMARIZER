@@ -406,9 +406,9 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ## Author
 
-**Your Name / GitHub Username**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Yadunandan M N / Yadu080*
+- GitHub: (https://github.com/Yadu080)
+
 
 ---
 
@@ -450,6 +450,6 @@ If you encounter issues or have questions:
 
 This application uses Google's Gemini API, which may incur costs based on your usage. Please review [Google Cloud Pricing](https://cloud.google.com/generative-ai/pricing) before use. The authors are not responsible for any charges incurred.
 
----
 
-**Happy summarizing!** 🚀
+
+
